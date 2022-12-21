@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "First Post"
+title: First Post
 date: 2022-12-21
 ---
 
