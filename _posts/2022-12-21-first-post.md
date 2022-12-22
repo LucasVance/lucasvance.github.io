@@ -1,5 +1,5 @@
 ---
-title: First Post
+layout: post
 date: 2022-12-21
 ---
 
