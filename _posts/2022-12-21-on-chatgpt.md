@@ -1,5 +1,5 @@
 ---
-title: On ChatGPT
+layout: post
 date: 2022-12-21
 ---
 
