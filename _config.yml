@@ -1,4 +1,8 @@
 theme: minima
 title: "My Thoughts"
 author: "Lucas Vance"
+url: "https://lucasvance.github.io/"
 locale: "en-US"
+
+minima:
+  skin: auto
